@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to my Profile
 
-<!--
-**yonanKhoshaba/yonanKhoshaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yonan Khoshaba, I am an 23 year old software developer based in Chicago, Illinois.
+I create ecommerce automation.
 
-Here are some ideas to get you started:
+## Current Projects
+- [Verge Financial](https://github.com/verge-co/)
+- Amazon FBA arbitrage technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Past Projects
+- E-commerce Automation
+- Web3 Automation
+
+
+## Contact info:
+Email: mggarage11@gmail.com
